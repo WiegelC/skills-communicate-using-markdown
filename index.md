@@ -1,6 +1,6 @@
 # Title
 
 ###### Test
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-
-I just added headers to test the outlook for the program
+Now, I added an image to the page.
